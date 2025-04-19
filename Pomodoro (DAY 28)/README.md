@@ -44,7 +44,6 @@ A GUI-based **Pomodoro Timer** built using Python and Tkinter to help boost prod
 4. A checkmark (`✔`) appears for each session completed.
 
 ## OUTPUT:
-   ```bash
 ## 📸 Screenshot
 
 ![App Screenshot](screenshot.png)
