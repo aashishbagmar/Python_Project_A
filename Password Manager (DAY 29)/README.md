@@ -46,9 +46,3 @@ A GUI-based password manager built with **Tkinter** in Python. This app allows u
 3. Password is optionally copied to clipboard
 
 ---
-
-## 🚀 Getting Started
-
-### 📥 Clone the Repository
-
-```bash
