@@ -46,4 +46,11 @@ A simple **console-based simulation** of a coffee vending machine, built using P
 
 1. The machine displays a prompt to choose a drink or command:
    ```bash
-   What would you like? (espresso/latte/cappuccino):
+    What would you like? (espresso/latte/cappuccino): latte
+    Please insert coins.
+    how many quarters?: 25
+    how many dimes?: 25
+    how many nickles?: 32
+    how many pennies?: 72
+    Here is $8.57 in change.
+    Here is your latte ☕️. Enjoy!
