@@ -4,18 +4,6 @@ A GUI-based password manager built with **Tkinter** in Python. This app allows u
 
 ---
 
-## 📋 Table of Contents
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [How It Works](#how-it-works)
-- [Getting Started](#getting-started)
-- [Screenshots](#screenshots)
-- [Enhancement Ideas](#enhancement-ideas)
-- [Author](#author)
-- [License](#license)
-
----
-
 ## ✅ Features
 
 - Generate secure random passwords
