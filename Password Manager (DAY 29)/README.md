@@ -52,5 +52,3 @@ A GUI-based password manager built with **Tkinter** in Python. This app allows u
 ### 📥 Clone the Repository
 
 ```bash
-git clone https://github.com/aashishbagmar/Python_Project_A.git
-cd Python_Project_A/DAY\ 29\ -\ Password\ Manager
