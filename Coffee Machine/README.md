@@ -44,7 +44,7 @@ A simple **console-based simulation** of a coffee vending machine, built using P
 
 ## ⚙️ How It Works
 
-1. The machine displays a prompt to choose a drink or command:
+1. OUTPUT:
    ```bash
     What would you like? (espresso/latte/cappuccino): latte
     Please insert coins.
