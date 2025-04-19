@@ -43,3 +43,11 @@ A GUI-based **Pomodoro Timer** built using Python and Tkinter to help boost prod
    - Long break (20 min) every 4th session
 4. A checkmark (`✔`) appears for each session completed.
 
+## OUTPUT:
+   ```bash
+## 📸 Screenshot
+
+![App Screenshot](screenshot.png)
+
+
+
